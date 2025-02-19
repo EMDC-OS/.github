@@ -1,4 +1,13 @@
 # Research on Edge-Native Operating Systems for Edge Micro-Data-Centers
+<div align="center">
+
+<h3> 
+
+English&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[한국어](./README_ko.md)&nbsp;&nbsp;&nbsp; 
+
+</h3>
+
+<div align="left">
 
 ![test](./data/images/overview_en.png)
 
