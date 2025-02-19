@@ -1,6 +1,6 @@
 # Research on Edge-Native Operating Systems for Edge Micro-Data-Centers
 
-![test](./data/images/overview.png)
+![test](./data/images/overview_en.png)
 
 ## Project Goal
 본 연구는 엣지 디바이스로부터 전달되는 데이터 스트림의 지능 컴퓨팅 작업을 엣지-마이크로데이터센터에서 효과적으로 처리할 수 있도록 차세대 컴퓨팅 가속장치와 SCM의 특성을 반영한 새로운 운영체제 구조를 연구하고, 이를 구현하여 엣지-친화적 운영체제를 개발한다. 
