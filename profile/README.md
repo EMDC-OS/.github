@@ -25,7 +25,7 @@ This study investigates a novel operating system architecture that incorporates 
 |5|[gpu-faas](https://github.com/EMDC-OS/gpu-faas)|A serverless computing platform that minimizes start-up latency for accelerator-based applications by sharing accelerator contexts and thus eliminating context initialization time|
 |6|[inference_profiler](https://github.com/EMDC-OS/inference_profiler)|A profiler that can capture the full stack (from the inference layer to the OS kernel) for inference workloads using the NVIDIA Triton Inference Server|
 |7|[KuScale](https://github.com/sslab-konkuk/KuScale)|A scheduler that ensures low latency and provides fine-grained control of GPUs|
-|8|[linux-autozg](https://github.com/jungyun-choi/linux-autozg)|A performance optimization technique for ZNS SSDs using dynamic zone group management in F2FS (SYSTOR '24)|
+|8|[linux-autozg](https://github.com/EMDC-OS/linux-autozg)|A performance optimization technique for ZNS SSDs using dynamic zone group management in F2FS (SYSTOR '24)|
 |9|[mg-lru](https://github.com/EMDC-OS/mg-lru)|A script that analyzes the kernel memory management layer for high-latency I/O requests occurring during read/write operations in low-memory environments (ICCD '23)|
 |10|[pm-aware-scheduler](https://github.com/EMDC-OS/pm-aware-scheduler)|A dynamic workload relocation technique that takes SCM I/O awareness into account in NUMA environments|
 |11|[pm-opzero](https://github.com/EMDC-OS/pm-opzero)|A filesystem that eliminates the data-initialization (zero-out) overhead caused by removing the page cache in DAX|
